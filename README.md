@@ -7,11 +7,11 @@ This repository contains the code for a simple Node/Express quiz application. Th
 To run the application, clone the repository and type in the terminal:
 
 ```bash
-npm install
+cd node-express-quiz
 ```
 
 ```bash
-cd node-express-quiz
+npm install
 ```
 
 ```bash
