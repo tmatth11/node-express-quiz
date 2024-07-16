@@ -11,5 +11,9 @@ npm install
 ```
 
 ```bash
+cd node-express-quiz
+```
+
+```bash
 node .
 ```
